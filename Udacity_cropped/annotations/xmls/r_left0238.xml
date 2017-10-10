@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imgs_Udacity_cropped</folder>
+	<filename>r_left0238.jpg</filename>
+	<path>G:\CarND\ObjectDetection\LabelImg\Imgs_Udacity_cropped\r_left0238.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>69</width>
+		<height>111</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>29</ymin>
+			<xmax>45</xmax>
+			<ymax>87</ymax>
+		</bndbox>
+	</object>
+</annotation>

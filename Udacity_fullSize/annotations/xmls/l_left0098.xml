@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_just_traffic_light</folder>
+	<filename>l_left0098.jpg</filename>
+	<path>G:\CarND\TL_git_1\Object_detection\img_just_traffic_light\l_left0098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1368</width>
+		<height>1096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>340</ymin>
+			<xmax>556</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

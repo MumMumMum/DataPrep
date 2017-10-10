@@ -1,0 +1,26 @@
+<annotation>
+	<folder>red</folder>
+	<filename>r_119.jpg</filename>
+	<path>C:\Users\other\Downloads\dataset (1)\simulator\red\r_119.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>85</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>8</ymin>
+			<xmax>71</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

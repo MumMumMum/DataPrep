@@ -1,0 +1,26 @@
+<annotation>
+	<folder>green</folder>
+	<filename>29.jpg</filename>
+	<path>C:\Users\other\Downloads\dataset (1)\simulator\green\29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>85</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Green</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>16</ymin>
+			<xmax>72</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

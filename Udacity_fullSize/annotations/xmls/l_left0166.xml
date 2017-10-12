@@ -1,7 +1,7 @@
 <annotation>
 	<folder>img_just_traffic_light</folder>
 	<filename>l_left0166.jpg</filename>
-	<path>G:\CarND\TL_git_1\Object_detection\img_just_traffic_light\l_left0166.jpg</path>
+	<path>D:\users\sakmannk\Downloads\Object_detection-master\Object_detection-master\img_just_traffic_light\l_left0166.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>440</xmin>
-			<ymin>345</ymin>
-			<xmax>527</xmax>
-			<ymax>685</ymax>
+			<xmin>448</xmin>
+			<ymin>369</ymin>
+			<xmax>497</xmax>
+			<ymax>517</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -219,7 +219,7 @@ def main(_):
                len(train_examples), len(val_examples))
 
   train_output_path = os.path.join(FLAGS.output_dir, 'UTL_Train.record')
-  val_output_path = os.path.join(FLAGS.output_dir, 'UT_Eval.record')
+  val_output_path = os.path.join(FLAGS.output_dir, 'UTL_Eval.record')
   create_tf_record(train_output_path, label_map_dict, annotations_dir,
                    image_dir, train_examples)
   create_tf_record(val_output_path, label_map_dict, annotations_dir,

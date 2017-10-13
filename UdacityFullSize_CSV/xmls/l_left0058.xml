@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_just_traffic_light</folder>
+	<filename>l_left0058.jpg</filename>
+	<path>D:\users\sakmannk\Downloads\Object_detection-master\Object_detection-master\img_just_traffic_light\l_left0058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1368</width>
+		<height>1096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yellow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>414</ymin>
+			<xmax>658</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

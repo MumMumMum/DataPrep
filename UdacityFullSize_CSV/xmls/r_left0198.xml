@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img_just_traffic_light</folder>
+	<filename>r_left0198.jpg</filename>
+	<path>C:\JK\carnd\udacity_tl_img\Object_detection\img_just_traffic_light\r_left0198.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1368</width>
+		<height>1096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>407</ymin>
+			<xmax>903</xmax>
+			<ymax>473</ymax>
+		</bndbox>
+	</object>
+</annotation>
